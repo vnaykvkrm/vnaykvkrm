@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vnaykvkrm@gmail.com**
 
-- ⚡ Fun fact **"Good developers copy-paste, Pros fork and rename" - Sun Tzu**
+- ⚡ Fun fact **"Good developers copy-paste, Pros fork,clone and rename" - Sun Tzu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
