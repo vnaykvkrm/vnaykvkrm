@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vnaykvkrm" target="blank"><img src="https://img.shields.io/twitter/follow/vnaykvkrm?logo=twitter&style=for-the-badge" alt="vnaykvkrm" /></a> </p>
 
-- 🌱 I’m currently learning **react js, next js**
+- 🌱 Trying to learn new stuff in tech and in a never-ending plan to build something big
 
 - 📫 How to reach me **vnaykvkrm@gmail.com**
 
