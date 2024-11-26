@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vnaykvkrm@gmail.com**
 
-- ⚡ Fun fact **"Good developers copy-paste, Pros fork,clone and rename" - Sun Tzu**
+- ⚡ Fun fact **"Three things you can't count - Stars in the sky, Sand granules in the desert and Javascript libraries solving issues that do not exist - Sun Tzu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
